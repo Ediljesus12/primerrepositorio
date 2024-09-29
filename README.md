@@ -1,0 +1,2 @@
+# primerrepositorio
+iniciando en git
